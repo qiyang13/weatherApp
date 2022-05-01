@@ -14,7 +14,7 @@ function App() {
         <hr />
         <WeatherSearch />
         <WeatherResults />
-        <WeatherSearchHistoryList/>
+        <WeatherSearchHistoryList />
       </div>
     </WeatherProvider>
 
